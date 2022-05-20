@@ -19,7 +19,7 @@ const github = {
             js: ["Node"],
         },
         devOps: ["AWS", "Docker"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["Oracle", "MySql", "Sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
     },
     currentFocus: "Python",
