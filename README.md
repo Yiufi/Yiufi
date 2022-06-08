@@ -1,4 +1,4 @@
-<h1 align="center">Olá pessoal, bem-vindo ao meu perfil</h1>
+<h1 align="center">Olá pessoal, bem-vindo ao meu perfil!</h1>
 
 <div align="center">
 <img src="https://a.imagem.app/A9yuV9.gif" alight-itens="center">
